@@ -1,0 +1,1 @@
+export const URL_API = "http://deltoserver.ddns.net:8080/api/"
